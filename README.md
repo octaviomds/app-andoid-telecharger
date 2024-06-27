@@ -1,0 +1,1 @@
+Les étapes pour construire un fichier APK Installer Git. Installer Android Studio. Définir le chemin d'accès git dans Android Studio. Download AAPS code. Télécharger Android SDK. Générer l'application (générer un fichier apksigné) Transférer le fichier apk sur votre téléphone.
